@@ -88,7 +88,6 @@ csp.whitelistBypasses.jsonp.URLS = goog.array.map([
   '//pro.netrox.sc/oapi/h_checksite.ashx',
   '//vimeo.com/api/oembed.json/',
   '//de.blog.newrelic.com/wp-admin/admin-ajax.php',
-  '//ajax.googleapis.com/ajax/services/search/news',
   '//ssl.google-analytics.com/gtm/js',
   '//pubsub.pubnub.com/subscribe/demo/hello_world/',
   '//pass.yandex.ua/services',
